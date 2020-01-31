@@ -1,3 +1,5 @@
 resolusi saya
 1. belajar git dan github
 2. belajar hosting web
+3. Blajar javascript advance
+4. beljar react
